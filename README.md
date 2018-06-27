@@ -33,7 +33,7 @@ GIF created with [RecordIt](http://recordit.co/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Describe any challenges encountered while building the app ~
 It was challenging to understand the code that I was implementing. 
 I had to stop and re-read each line many times so I could truly internalize the meaning and grasp a better understanding of what I was coding. 
 
