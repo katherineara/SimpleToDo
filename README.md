@@ -20,7 +20,8 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [x] List anything else that you can get done to improve the app functionality!
+Added colors to enhance the UI/UX of the Todo List app!
 
 ## Video Walkthrough
 
@@ -33,7 +34,8 @@ GIF created with [RecordIt](http://recordit.co/).
 ## Notes
 
 Describe any challenges encountered while building the app.
-It was challenging to understand the code that I was implementing. I had to stop and re-read each line many times so I could truly internalize the meaning and grasp a better understanding of what I was coding. 
+It was challenging to understand the code that I was implementing. 
+I had to stop and re-read each line many times so I could truly internalize the meaning and grasp a better understanding of what I was coding. 
 
 ## License
 
